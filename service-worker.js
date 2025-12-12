@@ -1,11 +1,11 @@
 const CACHE_NAME = 'testingg';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/script.js',
-  '/icon.png',
-  '/manifest.json'
+  '/women/',
+  '/women/index.html',
+  '/women/style.css',
+  '/women/script.js',
+  '/women/icon.png',
+  '/women/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
